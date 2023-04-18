@@ -1,0 +1,48 @@
+/*this is the background color */
+body{
+    background-color: rgb(141, 141, 45);
+}
+
+/*
+This stylesheet should include:
+At least four style definitions (it is possible you will have many more than four styles)
+Styles that specify font color
+Styles that specify font family*/
+.style1 {
+  color: rgb(109, 10, 10);
+  font-family: "Times New Roman", Times, serif;
+  position: static;
+}
+
+/* Style 2: grey with Papyrus font */
+.style2 {
+    color: rgb(52, 49, 49);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: static;
+  }
+  
+  /* Style 3: purple with Verdana font */
+  .style3 {
+    color: purple;
+    font-family: "Verdana", sans-serif;
+    position: static;
+  }
+  
+  /* Style 4: white with Calibri font */
+  .style4 {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    position: static;
+  }
+  /*style 5: just tp prove i can position divs*/
+  .style5 {
+    position: fixed;
+    margin-left: 1450px;
+  }
+  /*style6: to position a div*/
+  .stlye6{
+    position: static
+  }
+/*
+At least three divs that are positioned and styled using your styles
+ /*
